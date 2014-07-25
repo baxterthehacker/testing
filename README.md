@@ -1,1 +1,1 @@
-A single lonely commit.
+A single lonely commit. Tis all.
